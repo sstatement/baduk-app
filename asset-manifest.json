@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/baduk-app/static/css/main.d823efa8.css",
+    "main.css": "/baduk-app/static/css/main.178b7155.css",
     "main.js": "/baduk-app/static/js/main.113942e7.js",
     "static/js/453.ad6eb26e.chunk.js": "/baduk-app/static/js/453.ad6eb26e.chunk.js",
     "static/media/바통 원츄.jpg": "/baduk-app/static/media/바통 원츄.48e1f17b62a16c652122.jpg",
@@ -9,12 +9,12 @@
     "static/media/google.jpg": "/baduk-app/static/media/google.21884b7d2c30676d18ed.jpg",
     "static/media/훈수 안돼요.jpg": "/baduk-app/static/media/훈수 안돼요.4ad0e0491952558bbd40.jpg",
     "index.html": "/baduk-app/index.html",
-    "main.d823efa8.css.map": "/baduk-app/static/css/main.d823efa8.css.map",
+    "main.178b7155.css.map": "/baduk-app/static/css/main.178b7155.css.map",
     "main.113942e7.js.map": "/baduk-app/static/js/main.113942e7.js.map",
     "453.ad6eb26e.chunk.js.map": "/baduk-app/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d823efa8.css",
+    "static/css/main.178b7155.css",
     "static/js/main.113942e7.js"
   ]
 }
