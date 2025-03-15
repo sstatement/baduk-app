@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/baduk-app/static/css/main.f862c238.css",
-    "main.js": "/baduk-app/static/js/main.95262014.js",
+    "main.css": "/baduk-app/static/css/main.32cd825a.css",
+    "main.js": "/baduk-app/static/js/main.21f9c4e9.js",
     "static/js/453.ad6eb26e.chunk.js": "/baduk-app/static/js/453.ad6eb26e.chunk.js",
     "static/media/바통 원츄.jpg": "/baduk-app/static/media/바통 원츄.48e1f17b62a16c652122.jpg",
     "static/media/baduk-banner.jpg": "/baduk-app/static/media/baduk-banner.a200ad0478b5c21e22b6.jpg",
+    "static/media/가두모집.jpg": "/baduk-app/static/media/가두모집.10b830a92abaa35000fa.jpg",
     "static/media/바통이.jpg": "/baduk-app/static/media/바통이.9a6f0f5e0c9203710829.jpg",
     "static/media/google.jpg": "/baduk-app/static/media/google.21884b7d2c30676d18ed.jpg",
     "static/media/이겼어요.jpg": "/baduk-app/static/media/이겼어요.48a98d8858c54edd5a8a.jpg",
@@ -15,12 +16,12 @@
     "static/media/초보에요.jpg": "/baduk-app/static/media/초보에요.e56fa27c0a1748826fa8.jpg",
     "static/media/승단 축하.jpg": "/baduk-app/static/media/승단 축하.2a73d8e1278e0152fe7b.jpg",
     "index.html": "/baduk-app/index.html",
-    "main.f862c238.css.map": "/baduk-app/static/css/main.f862c238.css.map",
-    "main.95262014.js.map": "/baduk-app/static/js/main.95262014.js.map",
+    "main.32cd825a.css.map": "/baduk-app/static/css/main.32cd825a.css.map",
+    "main.21f9c4e9.js.map": "/baduk-app/static/js/main.21f9c4e9.js.map",
     "453.ad6eb26e.chunk.js.map": "/baduk-app/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f862c238.css",
-    "static/js/main.95262014.js"
+    "static/css/main.32cd825a.css",
+    "static/js/main.21f9c4e9.js"
   ]
 }
