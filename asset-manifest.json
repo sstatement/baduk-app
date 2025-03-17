@@ -1,12 +1,20 @@
 {
   "files": {
-    "main.css": "/baduk-app/static/css/main.32cd825a.css",
-    "main.js": "/baduk-app/static/js/main.1b129885.js",
+    "main.css": "/baduk-app/static/css/main.81532743.css",
+    "main.js": "/baduk-app/static/js/main.dfcc53e3.js",
     "static/js/453.ad6eb26e.chunk.js": "/baduk-app/static/js/453.ad6eb26e.chunk.js",
     "static/media/바통 원츄.jpg": "/baduk-app/static/media/바통 원츄.48e1f17b62a16c652122.jpg",
     "static/media/baduk-banner.jpg": "/baduk-app/static/media/baduk-banner.a200ad0478b5c21e22b6.jpg",
+    "static/media/챌린저.png": "/baduk-app/static/media/챌린저.29eca6535f292fbb009d.png",
+    "static/media/그랜드마스터.png": "/baduk-app/static/media/그랜드마스터.2cafc00c8e3f87213a69.png",
     "static/media/가두모집.jpg": "/baduk-app/static/media/가두모집.10b830a92abaa35000fa.jpg",
+    "static/media/마스터.png": "/baduk-app/static/media/마스터.318fa15cb1b6f1ba29f7.png",
+    "static/media/다이아.png": "/baduk-app/static/media/다이아.5796fdebcd5733d61c49.png",
+    "static/media/플레티넘.png": "/baduk-app/static/media/플레티넘.00df365589cc42412af7.png",
     "static/media/바통이.jpg": "/baduk-app/static/media/바통이.9a6f0f5e0c9203710829.jpg",
+    "static/media/브론즈.png": "/baduk-app/static/media/브론즈.58a033733b45d6ee5551.png",
+    "static/media/골드.png": "/baduk-app/static/media/골드.8430d35134f3386bab8b.png",
+    "static/media/실버.png": "/baduk-app/static/media/실버.ec28992dcb4a39754dc8.png",
     "static/media/google.jpg": "/baduk-app/static/media/google.21884b7d2c30676d18ed.jpg",
     "static/media/이겼어요.jpg": "/baduk-app/static/media/이겼어요.48a98d8858c54edd5a8a.jpg",
     "static/media/관전중.jpg": "/baduk-app/static/media/관전중.385da6e91eced61a9938.jpg",
@@ -16,12 +24,12 @@
     "static/media/초보에요.jpg": "/baduk-app/static/media/초보에요.e56fa27c0a1748826fa8.jpg",
     "static/media/승단 축하.jpg": "/baduk-app/static/media/승단 축하.2a73d8e1278e0152fe7b.jpg",
     "index.html": "/baduk-app/index.html",
-    "main.32cd825a.css.map": "/baduk-app/static/css/main.32cd825a.css.map",
-    "main.1b129885.js.map": "/baduk-app/static/js/main.1b129885.js.map",
+    "main.81532743.css.map": "/baduk-app/static/css/main.81532743.css.map",
+    "main.dfcc53e3.js.map": "/baduk-app/static/js/main.dfcc53e3.js.map",
     "453.ad6eb26e.chunk.js.map": "/baduk-app/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32cd825a.css",
-    "static/js/main.1b129885.js"
+    "static/css/main.81532743.css",
+    "static/js/main.dfcc53e3.js"
   ]
 }
